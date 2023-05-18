@@ -3,10 +3,17 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+<<<<<<< HEAD:GIT FLOW/Proyecto/nbproject/private/private.xml
             <file>file:/C:/Users/usuario/Desktop/GitFlow/GIT%20FLOW/Proyecto/src/vista/FMediana.java</file>
             <file>file:/C:/Users/usuario/Desktop/GitFlow/GIT%20FLOW/Proyecto/src/control/CMediana.java</file>
             <file>file:/C:/Users/usuario/Desktop/GitFlow/GIT%20FLOW/Proyecto/src/oovv/Mediana.java</file>
             <file>file:/C:/Users/usuario/Desktop/GitFlow/GIT%20FLOW/Proyecto/src/proyecto/Proyecto.java</file>
+=======
+            <file>file:/C:/Users/Alex/Documents/GIT%20FLOW%20TEST/TEST%20GIT%20FLOW/src/test/git/flow/TESTGITFLOW.java</file>
+            <file>file:/C:/Users/Alex/Documents/GIT%20FLOW%20TEST/TEST%20GIT%20FLOW/src/test/git/flow/OrdenarArray.java</file>
+            <file>file:/C:/Users/Alex/Documents/GIT%20FLOW%20TEST/TEST%20GIT%20FLOW/src/EX/NegativoExceptions.java</file>
+            <file>file:/C:/Users/Alex/Documents/GIT%20FLOW%20TEST/TEST%20GIT%20FLOW/src/Vista/FPrincipal.java</file>
+>>>>>>> 08e4c7e0f9111a8f80ceddf6ea27f52a3359add1:GIT FLOW/nbproject/private/private.xml
         </group>
     </open-files>
 </project-private>
