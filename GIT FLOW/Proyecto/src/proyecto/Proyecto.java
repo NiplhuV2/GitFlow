@@ -5,7 +5,6 @@
 package proyecto;
 
 import control.CMediana;
-import java.awt.HeadlessException;
 import javax.swing.JOptionPane;
 import oovv.Mediana;
 import oovv.NegativoException;
